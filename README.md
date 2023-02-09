@@ -1,3 +1,4 @@
-# React Boilerplate
+![Logo](https://github.com/Havock94/havock94.github.io/blob/master/public/banner.png?raw=true)
 
-React Boilerplate with MUI, TailwindCSS and Redux
+
+# GitHub Page
